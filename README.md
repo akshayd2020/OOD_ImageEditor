@@ -1,5 +1,5 @@
 <h3>Our Design</h3>
-<h4>Note: The repository for this editor has been made private in compliance with the OOD class rules. If wou would like to view the code, email to dupuguntla.a@northeastern.edu.</h4>
+<h4>Note: The repository for this editor has been made private in compliance with the OOD class rules. If you would like to view the code, email to dupuguntla.a@northeastern.edu.</h4>
 <p>Our design has three main parts: the pixel interface (IPixel), the model interface (ImageEditorModel), and the filter 
 interface (IFilter). The pixel interface is a way to represent a single pixel in an image. Currently there is 
 only one implementation of the interface (PixelImpl), which stores only the pixel's rgb values and is immutable. Next
